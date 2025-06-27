@@ -1,0 +1,48 @@
+Secretaria de Atenção Primária à Saúde - SAPS/MS 
+Dados sujeitos à alteração 
+---Descrição dos Filtros Utilizados---
+"Competência: MAI/2025, ABR/2025, MAR/2025, FEV/2025, JAN/2025, DEZ/2024, NOV/2024, OUT/2024, SET/2024, AGO/2024, JUL/2024, JUN/2024."
+Estado: MA.
+Tipo de Produção: Visita Domiciliar.
+"Motivo da Visita: Acomp.  Domiciliados/Acamados, Acomp.  Pessoa c/ Diabetes, Acomp.  Pessoa c/ Hanseníase, Acomp.  Pessoa c/ Tuberculose, Acomp.  Pessoas c/ D. Crônicas, Acomp.  Recém-nascido, Acomp. -  DPOC/Enfisema, Acomp. - Usuário de drogas, Acomp. Cond.  Bolsa Família, Acomp. Condições de V.S., Acomp. PCD  ou reabilitação, Acomp. Pessoa c/ Asma, Acomp. Pessoa c/ Câncer, Acomp. Pessoa c/ Desnutrição, Acomp. Pessoa c/ Hipertensão, Acomp. Sintomáticos Resp., Acomp. Usuário de álcool, Acompanhamento - Criança, Acompanhamento - Gestante, Acompanhamento - Puérpera, Acompanhamento - Saúde mental, Acompanhamento - Tabagista, B.A. - Cond.  Bolsa Família, Busca ativa - Consulta, Busca ativa - Exame, Busca ativa - Vacina, Cadastramento/Atualização, Controle de Ambientes/Vetores, Convite At.Col./Camp. Saúde, Egresso de Internação, Orientação / Prevenção, Outros, Visita periódica."
+"Desfecho da Visita: Ausente, Visita realizada, Visita recusada."
+"Tipo de Imóvel: Domicílio, Comércio, Terreno Baldio, Ponto Estratégico , Escola, Creche, Abrigo, Inst. de Longa Perm. p/ Idosos, Unidade Prisional, Und. de Medida Sócio Educativa, Delegacia, Estabelecimento Religioso."
+
+
+Tipo de Consulta;MAI/2025;ABR/2025;MAR/2025;FEV/2025;JAN/2025;DEZ/2024;NOV/2024;OUT/2024;SET/2024;AGO/2024;JUL/2024;JUN/2024;
+Acomp. Pessoa c/ Asma;4.753;4.599;4.225;4.484;4.435;3.377;4.161;4.493;4.141;4.645;5.318;5.414;
+Acomp.  Pessoa c/ Diabetes;127.394;125.886;118.851;121.857;121.440;87.534;112.656;116.758;111.964;118.510;123.807;123.514;
+Acomp. Sintomáticos Resp.;8.264;6.139;6.301;6.078;6.688;4.729;6.477;6.915;6.252;6.584;7.812;7.361;
+Busca ativa - Vacina;141.433;93.712;57.076;61.427;58.746;43.475;56.381;58.043;56.053;69.069;87.398;108.801;
+Acomp.  Recém-nascido;2.643;2.533;2.301;2.283;2.230;1.578;2.244;2.244;2.259;2.524;2.552;2.572;
+Visita periódica;159.139;151.665;146.175;148.613;153.228;113.785;149.530;157.538;153.206;154.493;163.295;159.091;
+Cadastramento/Atualização;742.119;828.586;769.806;796.609;686.010;436.576;527.444;526.000;494.467;539.787;543.795;526.476;
+B.A. - Cond.  Bolsa Família;47.753;94.954;77.087;22.062;14.736;16.774;31.632;65.376;98.092;33.335;17.755;26.199;
+Acomp. -  DPOC/Enfisema;763;567;537;624;651;480;683;606;594;650;717;725;
+Outros;214.473;205.718;199.283;200.299;202.464;159.979;209.078;219.025;202.624;216.945;229.192;217.896;
+Acompanhamento - Criança;274.619;258.538;251.538;272.010;273.907;200.758;252.354;259.100;244.534;276.793;292.245;283.119;
+Acomp.  Pessoas c/ D. Crônicas;51.512;53.824;52.112;53.333;54.012;38.544;48.483;50.221;48.697;50.235;51.332;51.046;
+Acomp. Pessoa c/ Desnutrição;849;748;698;730;796;625;805;918;688;652;865;844;
+Busca ativa - Exame;22.098;20.540;22.258;22.284;21.061;15.832;22.847;23.944;21.582;26.186;27.973;25.229;
+Acompanhamento - Puérpera;4.055;4.005;3.456;3.467;3.618;2.585;3.583;3.785;3.572;3.984;4.007;4.009;
+Orientação / Prevenção;1.581.084;1.512.534;1.458.407;1.507.079;1.573.862;1.185.704;1.488.561;1.550.494;1.470.218;1.571.041;1.631.561;1.590.052;
+Acomp.  Pessoa c/ Tuberculose;509;468;463;488;489;333;438;492;495;523;587;622;
+Egresso de Internação;2.177;2.158;1.925;2.199;1.868;1.747;2.033;2.023;1.781;2.122;2.044;1.973;
+Acomp. Condições de V.S.;18.028;15.446;17.764;17.350;19.529;13.435;16.701;17.467;17.089;17.624;19.466;19.296;
+Acomp. Usuário de álcool;34.404;32.911;32.311;33.667;34.173;25.211;31.256;32.894;30.846;33.022;43.148;44.094;
+Acomp. PCD  ou reabilitação;32.597;30.467;28.863;30.431;30.680;22.532;28.526;29.750;28.481;30.420;31.019;29.706;
+Convite At.Col./Camp. Saúde;92.732;88.589;80.370;64.053;55.892;46.340;70.148;80.776;68.439;63.522;70.609;78.127;
+Acomp. Cond.  Bolsa Família;117.462;206.605;176.006;78.310;71.361;66.589;98.725;166.993;213.990;95.336;79.725;95.231;
+Acomp. Pessoa c/ Hipertensão;225.308;221.282;210.268;218.808;219.174;158.029;206.302;215.038;204.390;221.545;232.049;231.327;
+Busca ativa - Consulta;123.564;117.413;116.839;128.280;120.221;89.475;122.652;125.351;111.597;135.062;143.997;131.436;
+Acompanhamento - Saúde mental;14.420;13.884;13.054;13.843;13.961;9.858;12.506;12.989;12.317;13.109;13.747;13.939;
+Acompanhamento - Gestante;20.222;20.089;18.856;20.302;19.582;14.041;17.950;18.946;17.732;20.437;21.146;20.789;
+Acomp. Pessoa c/ Câncer;2.740;2.591;2.443;2.613;2.597;1.836;2.456;2.391;2.298;2.509;2.867;2.909;
+Acomp.  Pessoa c/ Hanseníase;1.578;1.392;1.327;1.376;1.355;983;1.302;1.369;1.342;1.397;1.627;1.562;
+Acomp. - Usuário de drogas;5.764;5.497;5.540;5.753;6.121;4.481;5.483;5.746;5.635;5.653;6.625;6.594;
+Acomp.  Domiciliados/Acamados;34.425;32.496;29.286;30.268;29.449;21.438;27.339;28.789;27.816;29.862;33.484;33.845;
+Acompanhamento - Tabagista;25.382;24.410;24.029;25.055;25.868;19.322;24.339;25.567;24.648;26.208;28.007;27.373;
+
+
+Fonte: Sistema de Informação em Saúde para a Atenção Básica - SISAB;
+Dado gerado em: 27 de Junho de 2025 - 15:58h
