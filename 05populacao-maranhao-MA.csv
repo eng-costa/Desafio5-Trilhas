@@ -1,0 +1,44 @@
+ A.1 População Total
+População por Ano e Unidade da Federação
+Unidade da Federação: Maranhão
+Período:1990-2012
+"Ano";"Maranhão";"Total"
+"1990";4838464;4838464
+"1991";4930253;4930253
+"1992";4983237;4983237
+"1993";5088909;5088909
+"1994";5160987;5160987
+"1995";5231256;5231256
+"1996";5222183;5222183
+"1997";5295442;5295442
+"1998";5356831;5356831
+"1999";5418354;5418354
+"2000";5651475;5651475
+"2001";5732679;5732679
+"2002";5803224;5803224
+"2003";5873655;5873655
+"2004";6021742;6021742
+"2005";6103327;6103327
+"2006";6184538;6184538
+"2007";6265102;6265102
+"2008";6305539;6305539
+"2009";6367111;6367111
+"2010";6574789;6574789
+"2011";6645761;6645761
+"2012";6714314;6714314
+Fonte: IBGE/Censos demográficos (1991, 2000 e 2010), contagem populacional (1996) e projeções e estimativas demográficas
+Notas:
+
+ As estruturas por sexo e idade para 2011 e 2012 foram obtidas aplicando-se a estrutura populacional observada no Censo 2010 à população estimada
+ para 2011 e 2012, por município, pelo IBGE, com ajustes nas idades simples de 0 a 19 anos.
+ As estruturas por sexo e idade para 2006 a 2009 foram obtidas aplicando-se o método das Relações de Coortes ao total do Brasil e do total das UF,
+ gerados pelo método AiBi. Para os cálculos já foram considerados os contingentes populacionais para 2006 a 2009 - Revisão 2008.
+As populações por sexo para 2001 a 2005 foram obtidas a partir do total Brasil e do total das UF, pelo método AiBi.
+ Para os cálculos já foram considerados os contingentes populacionais para 2001 a 2005 - Revisão 2004.
+ Foram calculadas as populações para ambos os sexos e para homens. A população feminina foi obtida por diferença.
+Para os anos de 1990, 1992-1995 e 1997-1999, veja a descrição detalhada das fontes e memória de cálculo nas
+Notas Técnicas, na área de
+informações demográficas do Datasus.
+Para os anos de 1990 a 2005, as Regiões Metropolitanas seguem a configuração de 2003. Para
+os anos de 2006 a 2010, seguem a nova configuração das regiões metropolitanas.
+Para 1990 e 1992, há estimativas apenas para a faixa etária de 0 a 4 anos, sem desagregação.
