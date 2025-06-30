@@ -1,0 +1,4 @@
+INFORMAÇÕES SOBRE OS DADOS TRATADOS
+Arquivos utilizados --> 00, 01, 02, 06, 08
+Houve a junção 00 com 08
+demais estão separados
